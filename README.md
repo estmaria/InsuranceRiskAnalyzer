@@ -33,6 +33,11 @@ The app returns:
 - `linreg_model.pkl`: Trained linear regression model
 - `streamlit_app.py`: Streamlit UI script
 
+## 📸 Sample Visualizations
+- Medical Charges vs. Age/BMI by Smoking Status
+- Risk Score Distribution
+- Actual vs. Predicted Charges Scatter Plot
+
   ## 🧠 Insights
 - Smokers have significantly higher charges, across all ages and BMI
 - The Southeast region tends to have higher medical costs
