@@ -30,13 +30,17 @@ The app returns:
 ## 📁 Project Files
 - `insurance.csv`: Source dataset
 - `insurance_risk_report.csv`: Output file with predicted charges
+- `risk_analyzer.ipynb`: Data analysis and visualization
 - `linreg_model.pkl`: Trained linear regression model
 - `streamlit_app.py`: Streamlit UI script
 
 ## 📸 Sample Visualizations
 - Medical Charges vs. Age/BMI by Smoking Status
+  ![image](https://github.com/user-attachments/assets/bf44924b-e6a1-4f6c-b9da-38aa9f87b67b)
 - Risk Score Distribution
+  ![image](https://github.com/user-attachments/assets/bd250d82-173e-4645-a284-0952d7dea9be)
 - Actual vs. Predicted Charges Scatter Plot
+![image](https://github.com/user-attachments/assets/267c3b74-7168-4b4f-a210-07afec8ec804)
 
   ## 🧠 Insights
 - Smokers have significantly higher charges, across all ages and BMI
