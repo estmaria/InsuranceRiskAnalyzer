@@ -1,5 +1,6 @@
 # InsuranceRiskAnalyzer
 The **Insurance Risk Analyzer** is a Python-powered data science project that analyzes and predicts healthcare risk and insurance charges using demographic and lifestyle data. It includes a machine learning model and a Streamlit-powered web app that allows users to input personal health data and receive a predicted medical charge and risk category.
+- See web: https://estmaria-insurance-risk-analyzer.streamlit.app/
 
 ## 🚀 Features
 - 📊 **Data Analysis** of medical charges by smoking status, BMI, age, and region
@@ -11,7 +12,7 @@ The **Insurance Risk Analyzer** is a Python-powered data science project that an
 ## 💻 Technologies Used
 - Python (pandas, numpy, sklearn, seaborn, matplotlib)
 - Machine Learning: Linear Regression
-- Web App: [Streamlit](https://streamlit.io/)
+- Web App: Streamlit
 - Model Persistence: joblib
 
 ## 📥 User Inputs (via Web App)
